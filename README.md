@@ -149,8 +149,14 @@ world-cup-predictor/
 ├── final_report/
 │   Final written report
 
-└── presentation/
-    Final project presentation
+├── presentation/
+│   Final project presentation
+
+└── results/
+│   Model comparison & final prediction visualizations
+
+└── visualizations/
+    Exploratory data analysis & model visualizations
 ```
 
 ---
