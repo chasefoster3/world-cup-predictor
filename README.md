@@ -39,7 +39,7 @@ The goals of this project were to:
 
 - 49,071 historical international matches
 - FIFA rankings from 1992–2024
-- Final modeling dataset containing **25,691 matches** and **15 engineered features** after merging, filtering, and feature engineering. :contentReference[oaicite:1]{index=1}
+- Final modeling dataset containing **25,691 matches** and **15 engineered features** after merging, filtering, and feature engineering.
 
 ### Feature Engineering
 
